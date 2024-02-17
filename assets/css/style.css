@@ -1,13 +1,27 @@
 
+/*General style*/
+body {
+    margin: 0 auto ;
+    display: flex;
+    min-height: 110vh;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
 /*Header style*/
 header {
+flex:0;
 background-color: aqua;
 }
+
 /*Main style*/
 main {
 background-color: aquamarine;
+flex:2;
 }
+
 /*Footer style*/
 footer {
+flex:0;
 background-color: blue;
 }
