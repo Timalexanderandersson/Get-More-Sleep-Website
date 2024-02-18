@@ -19,6 +19,18 @@ header {
 header > h1 {
     text-align: center;
 }
+/*Navigation bar*/
+nav {
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+   list-style-type:none;
+   justify-content: space-around;
+   border: 3px solid rgb(255, 255, 255);
+   background-color: white;
+   padding-bottom: 10px;
+
+}
 
 /*Main style*/
 main {
