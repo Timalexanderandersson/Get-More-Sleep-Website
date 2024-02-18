@@ -12,8 +12,8 @@ body {
 
 /*Header style*/
 header {
-flex:0;
-background-color: aqua;
+flex:0.5;
+background-color: #0F7881;
 }
 
 /*Main style*/
@@ -21,6 +21,7 @@ main {
 background-color: aquamarine;
 /*Main content part*/
 flex:2;
+
 }
 
 /*Footer style*/
