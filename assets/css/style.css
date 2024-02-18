@@ -14,22 +14,27 @@ body {
 /*Header style*/
 header {
     flex: 0.040;
-    background-color: rgba(15, 120, 129, 0.5);
+    background-color: rgba(15, 120, 129, 0.15);
 }
-header > h1 {
+
+header>h1 {
     text-align: center;
 }
+
 /*Navigation bar*/
 nav {
     display: flex;
     justify-content: center;
-    flex-direction:row;
-   list-style-type:none;
-   justify-content: space-around;
-   border: 3px solid rgb(255, 255, 255);
-   background-color: white;
-   padding-bottom: 10px;
-
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around;
+}
+nav > li > a {
+color: black;
+font-size: 18px;
+}
+nav > li > a:hover {
+color: white;
 }
 
 /*Main style*/
