@@ -1,31 +1,35 @@
 /* Fonts from google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
 /*General style*/
 body {
-    margin: 0 auto ;
+    margin: 0 auto;
     display: flex;
     min-height: 110vh;
     box-sizing: border-box;
     flex-direction: column;
-    font-family: Noto serif ;
+    font-family: Noto serif, Arial, Helvetica, sans-serif;
 }
 
 /*Header style*/
 header {
-flex:0.5;
-background-color: #0F7881;
+    flex: 0.040;
+    background-color: rgba(15, 120, 129, 0.5);
+}
+header > h1 {
+    text-align: center;
 }
 
 /*Main style*/
 main {
-background-color: aquamarine;
-/*Main content part*/
-flex:2;
+    background-color: white;
+    /*Main content part*/
+    flex: 2;
 
 }
 
 /*Footer style*/
 footer {
-flex:0;
-background-color: blue;
+    flex: 0;
+    background-color: rgba(15, 120, 129, 0.5);
 }
