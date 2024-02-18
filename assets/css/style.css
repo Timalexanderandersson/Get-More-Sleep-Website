@@ -49,6 +49,6 @@ main {
 
 /*Footer style*/
 footer {
-    flex: 0;
-    background-color: rgba(15, 120, 129, 0.5);
+    flex: 0.20;
+    background-color: rgba(15, 120, 129, 0.15);
 }
