@@ -31,12 +31,14 @@ nav {
     list-style-type: none;
     justify-content: space-around;
 }
-nav > li > a {
-color: black;
-font-size: 18px;
+
+nav>li>a {
+    color: black;
+    font-size: 18px;
 }
-nav > li > a:hover {
-color: white;
+
+nav>li>a:hover {
+    color: white;
 }
 
 /*Main style*/
@@ -49,14 +51,29 @@ main {
 
 /*Footer style*/
 footer {
-    flex: 0.20;
+    flex: 0.10;
     background-color: rgba(15, 120, 129, 0.15);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+
 /*Icons for social media links*/
-.social-media-links {
-
+.social-media-links ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding:0;
+    margin:0;
 }
-/* Paragraph for follow us*/
+.social-media-links ul li a {
+    margin-right:23px;
+    font-size: 27px;
+    color: black;
+}
+.social-media-links ul li a:hover {
+color: white;
+}
 #follow-us {
-
+    margin-right: 1rem;
 }
