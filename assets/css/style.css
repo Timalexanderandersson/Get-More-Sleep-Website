@@ -43,7 +43,7 @@ nav>li>a:hover {
 
 /*Main style*/
 main {
-    background-color: white;
+    background-color: rgb(241, 248, 248);
     flex: 2;
 }
 /*Picture on front page*/
