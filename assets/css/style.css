@@ -106,6 +106,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
+
 }
 
 /*Icons for social media links*/
@@ -137,7 +138,7 @@ footer {
 
     /*Body*/
     body {
-        min-height: 150vh;
+        min-height: 160vh;
     }
 
     /*Picture first page*/
@@ -163,14 +164,17 @@ footer {
     .more-content-div {
         max-width: 450px;
         padding: 30px;
+        margin-top: 10px;
     }
 
 }
+
 /*For screen users over 992px */
 @media (min-width:992px) {
-       /*Body*/
-       body {
-        min-height: 160vh;
+
+    /*Body*/
+    body {
+        min-height: 175vh;
     }
 
     /*Picture first page*/
@@ -196,5 +200,6 @@ footer {
     .more-content-div {
         max-width: 500px;
         padding: 30px;
+        margin-top: 20px;
     }
 }
