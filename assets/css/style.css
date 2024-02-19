@@ -29,12 +29,13 @@ nav {
     justify-content: center;
     flex-direction: row;
     list-style-type: none;
-    justify-content: space-around;
+
 }
 
 nav>li>a {
     color: black;
     font-size: 18px;
+    margin-right:10px;
 }
 
 nav>li>a:hover {
@@ -132,6 +133,28 @@ footer {
 }
 /*For screen users over 768px */
 @media (min-width:768px ) {
- 
+    
+    /*Navigation bar for 768px*/
+    nav {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        list-style-type: none;
+    }
+    nav > li > a {
+        margin: 20px;
+    }
+    
+     
+    /*first box front page*/
+    .hard-time-div {
+        max-width: 500px;
+       padding:30px;
+    }
+    /*second box front page*/
+    .more-content-div {
+        max-width: 500px;
+    padding:30px;
+    }
 
 }
