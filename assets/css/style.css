@@ -71,6 +71,24 @@ margin-top: 37px;
     text-align: center;
     border-radius: 10px;
 }
+/* Second box with a link to Tips.*/
+.more-content {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.more-content-div {
+    max-width:255px;
+    background-color: rgba(15, 120, 129, 0.15);
+    text-align: center;
+    border-radius: 14px;
+}
+.more-content-div > p > a {
+color: black;
+}
+.more-content-div > p > a:hover {
+    color: white;
+}
 
 /*Footer style*/
 footer {
