@@ -59,14 +59,17 @@ main {
 }
 /*First Lines in the head page*/
 .hard-time {
-border: 1px solid grey;
 display: flex;
 justify-content: center;
-padding-left: 2rem;
 flex-direction: column;
 align-items: center;
-margin-top: 20px;
-border-radius: 5px;
+margin-top: 37px;
+}
+.hard-time-div {
+    max-width:255px;
+    background-color: rgba(15, 120, 129, 0.15);
+    text-align: center;
+    border-radius: 10px;
 }
 
 /*Footer style*/
