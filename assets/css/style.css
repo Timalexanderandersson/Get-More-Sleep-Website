@@ -46,47 +46,55 @@ main {
     background-color: rgb(241, 248, 248);
     flex: 2;
 }
+
 /*Picture on front page*/
 #front-picture {
-    height:186px;
-    width:100%;
+    height: 186px;
+    width: 100%;
     display: flex;
     justify-content: center;
-    margin:0;
+    margin: 0;
 }
+
 #front-picture img {
     border-radius: 5px;
 }
+
 /*First Lines in the head page*/
 .hard-time {
-display: flex;
-justify-content: center;
-flex-direction: column;
-align-items: center;
-margin-top: 37px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 37px;
 }
+
 .hard-time-div {
-    max-width:255px;
+    max-width: 255px;
     background-color: rgba(15, 120, 129, 0.15);
     text-align: center;
     border-radius: 10px;
 }
+
 /* Second box with a link to Tips.*/
 .more-content {
     display: flex;
     justify-content: center;
     margin-top: 15px;
 }
+
 .more-content-div {
-    max-width:255px;
+    max-width: 255px;
     background-color: rgba(15, 120, 129, 0.15);
     text-align: center;
     border-radius: 14px;
 }
-.more-content-div > p > a {
-color: black;
+
+.more-content-div>p>a {
+    color: black;
 }
-.more-content-div > p > a:hover {
+
+.more-content-div>p>a:hover {
     color: white;
 }
 
@@ -104,18 +112,26 @@ footer {
     display: flex;
     flex-direction: row;
     list-style-type: none;
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
 }
+
 .social-media-links ul li a {
-    margin-right:23px;
+    margin-right: 23px;
     font-size: 27px;
     color: black;
 }
+
 .social-media-links ul li a:hover {
-color: white;
+    color: white;
 }
+
 #follow-us {
     margin-right: 1rem;
     font-size: 16px;
+}
+/*For screen users over 768px */
+@media (min-width:768px ) {
+ 
+
 }
