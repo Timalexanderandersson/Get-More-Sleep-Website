@@ -158,15 +158,17 @@ footer {
 
     /*first box front page*/
     .hard-time-div {
-        max-width: 450px;
+        max-width: 600px;
         padding: 30px;
+        height:200px;
     }
 
     /*second box front page*/
     .more-content-div {
-        max-width: 450px;
+        max-width: 500px;
         padding: 30px;
         margin-top: 10px;
+        height:60px;
     }
 
 }
