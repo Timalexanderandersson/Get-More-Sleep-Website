@@ -36,6 +36,8 @@ nav>li>a {
     color: black;
     font-size: 18px;
     margin-right: 10px;
+    font-size: 1.2rem;
+    text-decoration: none;
 }
 
 nav>li>a:hover {
@@ -176,6 +178,9 @@ footer {
 /*For screen users over 992px */
 @media (min-width:992px) {
 
+    header>h1 {
+        font-size: 2rem;
+    }
     /*Body*/
     body {
         min-height: 160vh;
