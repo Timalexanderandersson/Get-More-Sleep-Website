@@ -176,7 +176,7 @@ footer {
 
     /*Body*/
     body {
-        min-height: 175vh;
+        min-height: 160vh;
     }
 
     /*Picture first page*/
@@ -194,14 +194,16 @@ footer {
 
     /*first box front page*/
     .hard-time-div {
-        max-width: 500px;
+        max-width: 700px;
         padding: 50px;
+        height: 130px;
+
     }
 
     /*second box front page*/
     .more-content-div {
-        max-width: 500px;
+        max-width: 600px;
         padding: 30px;
-        margin-top: 20px;
+        margin-top: 20px; 
     }
 }
