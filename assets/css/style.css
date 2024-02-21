@@ -54,8 +54,8 @@ nav {
 /*Main style*/
 main {
     background-color: rgb(241, 248, 248);
-    flex:0.9;
-    max-height: 130vh;
+    flex:1;
+    min-height: 130vh;
 }
 
 /*Picture on front page*/
