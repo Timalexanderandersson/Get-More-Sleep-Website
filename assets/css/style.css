@@ -5,7 +5,7 @@
 body {
     margin: 0 auto;
     display: flex;
-    min-height: 100vh;
+    min-height: 130vh;
     box-sizing: border-box;
     flex-direction: column;
     font-family: Noto serif, Arial, Helvetica, sans-serif;
@@ -55,6 +55,7 @@ nav {
 main {
     background-color: rgb(241, 248, 248);
     flex:1;
+    max-height: 130vh;
 }
 
 /*Picture on front page*/
@@ -148,8 +149,8 @@ footer {
 @media (min-width:768px) {
 
     /*Body*/
-    body {
-        min-height: 160vh;
+    main {
+        min-height: 126vh;
     }
 
     /*Picture first page*/
@@ -188,10 +189,11 @@ footer {
     header>h1 {
         font-size: 2rem;
     }
-    /*Body*/
-    body {
-        min-height: 170vh;
+    /*main*/
+    main {
+        min-height: 140vh;
     }
+   
 
     /*Picture first page*/
     #front-picture {
