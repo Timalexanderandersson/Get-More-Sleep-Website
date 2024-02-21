@@ -183,7 +183,7 @@ footer {
     }
     /*Body*/
     body {
-        min-height: 160vh;
+        min-height: 170vh;
     }
 
     /*Picture first page*/
@@ -202,8 +202,8 @@ footer {
     /*first box front page*/
     .hard-time-div {
         max-width: 700px;
-        padding: 50px;
-        height: 130px;
+        padding: 45px;
+        
 
     }
 
