@@ -99,6 +99,7 @@ main {
     text-align: center;
     border-radius: 14px;
     padding:7px;
+    margin-bottom:20px
 }
 
 .more-content-div>p>a {
@@ -189,7 +190,7 @@ footer {
     }
     /*main*/
     main {
-        min-height: 110vh;
+        min-height: 105vh;
     }
    
 
@@ -219,5 +220,6 @@ footer {
         max-width: 600px;
         padding: 30px;
         margin-top: 20px; 
+        margin-bottom: 20px
     }
 }
