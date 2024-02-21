@@ -24,15 +24,18 @@ header>h1 {
 }
 
 /*Navigation bar*/
+
 nav {
+    
+}
+#navbar {
     display: flex;
     justify-content: center;
     flex-direction: row;
     list-style-type: none;
-
+    padding-left: 5px;
 }
-
-nav>li>a {
+#navbar >li >a {
     color: black;
     font-size: 18px;
     margin-right: 10px;
@@ -40,7 +43,7 @@ nav>li>a {
     text-decoration: none;
 }
 
-nav>li>a:hover {
+#navbar>li>a:hover {
     color: white;
 }
 
