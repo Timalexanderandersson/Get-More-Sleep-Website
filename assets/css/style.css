@@ -54,7 +54,7 @@ nav {
 /*Main style*/
 main {
     background-color: rgb(241, 248, 248);
-    flex: 2;
+    flex: 1;
 }
 
 /*Picture on front page*/
