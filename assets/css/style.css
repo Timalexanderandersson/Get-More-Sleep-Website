@@ -36,7 +36,8 @@ header>h1 {
     list-style-type: none;
     padding-left: 5px;
 }
-#navbar >li >a {
+
+#navbar>li>a {
     color: black;
     font-size: 18px;
     margin-right: 10px;
@@ -52,9 +53,9 @@ header>h1 {
 /*Main style*/
 main {
     background-color: rgb(241, 248, 248);
-    flex:auto;
+    flex: auto;
     min-height: 50vh;
-    
+
 }
 
 /*Picture on front page*/
@@ -84,7 +85,7 @@ main {
     background-color: rgba(15, 120, 129, 0.15);
     text-align: center;
     border-radius: 10px;
-    padding:7px;
+    padding: 7px;
 }
 
 /* Second box with a link to Tips.*/
@@ -99,8 +100,8 @@ main {
     background-color: rgba(15, 120, 129, 0.15);
     text-align: center;
     border-radius: 14px;
-    padding:7px;
-    margin-bottom:20px
+    padding: 7px;
+    margin-bottom: 20px
 }
 
 .more-content-div>p>a {
@@ -144,12 +145,14 @@ footer {
     margin-right: 1rem;
     font-size: 16px;
 }
+
 /* Tips site */
 /*Try one of these!*/
 #tips-header {
     text-align: center;
     margin-top: 60px;
 }
+
 /* tips box on tips site*/
 .sleeping-tips {
     display: flex;
@@ -157,7 +160,8 @@ footer {
     margin-right: 20px;
     margin-top: 60px;
 }
-.sleeping-tips > ul > li {
+
+.sleeping-tips>ul>li {
     margin-bottom: 25px;
 }
 
@@ -167,7 +171,7 @@ footer {
 
     /*Body*/
     main {
-        min-height:50vh;
+        min-height: 50vh;
     }
 
     /*Picture first page*/
@@ -187,7 +191,7 @@ footer {
     .hard-time-div {
         max-width: 600px;
         padding: 30px;
-        height:200px;
+        height: 200px;
     }
 
     /*second box front page*/
@@ -195,19 +199,22 @@ footer {
         max-width: 500px;
         padding: 30px;
         margin-top: 10px;
-        height:60px;
+        height: 60px;
     }
+
     /*Tips page Tips box*/
     #tips-header {
         font-size: 1.5rem;
         margin-top: 100px;
     }
+
     .sleeping-tips {
         margin-top: 80px;
-       margin-left: 80px;
-       margin-bottom: 20px;
+        margin-left: 80px;
+        margin-bottom: 20px;
     }
-    .sleeping-tips > ul > li {
+
+    .sleeping-tips>ul>li {
         margin-bottom: 30px;
         font-size: 1.3rem;
     }
@@ -220,11 +227,12 @@ footer {
     header>h1 {
         font-size: 2rem;
     }
+
     /*main*/
     main {
         min-height: 50vh;
     }
-   
+
 
     /*Picture first page*/
     #front-picture {
@@ -243,7 +251,7 @@ footer {
     .hard-time-div {
         max-width: 700px;
         padding: 45px;
-        
+
 
     }
 
@@ -251,7 +259,16 @@ footer {
     .more-content-div {
         max-width: 600px;
         padding: 30px;
-        margin-top: 20px; 
+        margin-top: 20px;
         margin-bottom: 20px
+    }
+
+    /*Tips page Tips box*/
+    #tips-header {
+        font-size: 1.8rem;
+    }
+
+    .sleeping-tips>ul>li {
+        font-size: 1.6rem;
     }
 }
