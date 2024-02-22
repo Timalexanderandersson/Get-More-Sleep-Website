@@ -145,10 +145,11 @@ footer {
     font-size: 16px;
 }
 /* Tips site */
-
+/*Try one of these!*/
 #tips-header {
     text-align: center;
 }
+/* tips box */
 
 /*For screen users over 768px */
 @media (min-width:768px) {
