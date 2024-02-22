@@ -52,7 +52,7 @@ header>h1 {
 main {
     background-color: rgb(241, 248, 248);
     flex:auto;
-    min-height: 100vh;
+    min-height: 50vh;
     
 }
 
@@ -149,7 +149,7 @@ footer {
 
     /*Body*/
     main {
-        min-height:95vh;
+        min-height:50vh;
     }
 
     /*Picture first page*/
@@ -190,7 +190,7 @@ footer {
     }
     /*main*/
     main {
-        min-height: 105vh;
+        min-height: 50vh;
     }
    
 
