@@ -149,7 +149,15 @@ footer {
 #tips-header {
     text-align: center;
 }
-/* tips box */
+/* tips box on tips site*/
+.sleeping-tips {
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+}
+.sleeping-tips > ul > li {
+    margin-bottom: 10px;
+}
 
 
 /*For screen users over 768px */
