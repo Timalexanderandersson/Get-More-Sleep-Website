@@ -237,6 +237,25 @@ footer {
         font-size: 1.3rem;
     }
 
+/* Contact Form */
+.div-form {
+    font-size: 1.2rem;
+    
+}
+.contact-form {
+    padding:40px;
+}
+
+.contact-form > input {
+    margin-bottom: 8px;
+   padding:3px;
+}
+#submit-button {
+    display: flex;
+    flex-direction: column;
+}
+
+
 }
 
 /*For screen users over 992px */
