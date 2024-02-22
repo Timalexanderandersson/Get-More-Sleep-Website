@@ -52,7 +52,7 @@ header>h1 {
 main {
     background-color: rgb(241, 248, 248);
     flex:auto;
-    min-height: 110vh;
+    min-height: 100vh;
     
 }
 
