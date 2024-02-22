@@ -197,16 +197,17 @@ footer {
     }
     /*Tips page Tips box*/
     #tips-header {
-        font-size: 1.2rem;
-        margin-top: 70px;
+        font-size: 1.5rem;
+        margin-top: 100px;
     }
     .sleeping-tips {
-        margin-top: 70px;
+        margin-top: 80px;
        margin-left: 80px;
+       margin-bottom: 20px;
     }
     .sleeping-tips > ul > li {
         margin-bottom: 30px;
-        font-size: 1.1rem;
+        font-size: 1.3rem;
     }
 
 }
