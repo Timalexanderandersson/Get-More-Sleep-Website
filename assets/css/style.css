@@ -144,6 +144,11 @@ footer {
     margin-right: 1rem;
     font-size: 16px;
 }
+/* Tips site */
+
+#tips-header {
+    text-align: center;
+}
 
 /*For screen users over 768px */
 @media (min-width:768px) {
