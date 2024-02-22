@@ -308,4 +308,21 @@ footer {
     .sleeping-tips>ul>li {
         font-size: 1.6rem;
     }
+    /* Contact Form */
+.div-form {
+    font-size: 1.4rem;
+    
+}
+.contact-form {
+    padding:50px;
+}
+
+.contact-form > input {
+    margin-bottom: 8px;
+   padding:5px;
+}
+#submit-button {
+    display: flex;
+    flex-direction: column;
+}
 }
