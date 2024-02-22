@@ -311,12 +311,13 @@ footer {
     /* Contact Form */
 .div-form {
     font-size: 1.4rem;
-    
+   margin-top: 10vh;
+   
 }
 .contact-form {
-    padding:50px;
+    max-width: 500px;
+    
 }
-
 .contact-form > input {
     margin-bottom: 8px;
    padding:5px;
