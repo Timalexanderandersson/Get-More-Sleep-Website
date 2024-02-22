@@ -148,15 +148,17 @@ footer {
 /*Try one of these!*/
 #tips-header {
     text-align: center;
+    margin-top: 60px;
 }
 /* tips box on tips site*/
 .sleeping-tips {
     display: flex;
     justify-content: center;
     margin-right: 20px;
+    margin-top: 60px;
 }
 .sleeping-tips > ul > li {
-    margin-bottom: 10px;
+    margin-bottom: 25px;
 }
 
 
