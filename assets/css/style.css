@@ -11,7 +11,7 @@ body {
     font-family: Noto serif, Arial, Helvetica, sans-serif;
 }
 
-h2 {
+h1 {
     font-size: 1.5rem;
 }
 
@@ -21,7 +21,7 @@ header {
     background-color: rgba(15, 120, 129, 0.15);
 }
 
-header>h2 {
+header>h1 {
     text-align: center;
     font-size: 1.7rem;
 
