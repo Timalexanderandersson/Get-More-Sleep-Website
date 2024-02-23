@@ -17,18 +17,19 @@ The website [GetMoreSleep](https://timalexanderandersson.github.io/Get-More-Slee
 
 ### navigation
 ![alt text](assets/readme-pics/navigation.png)
-- Navigation to homepage, Tips and contact.
+- Navigation to homepage, Tips and contact. they have the center position.
 - homepage is all the relevant about the webpage.
-- tips for all the hacks for sleep
-- contact for questions about tips or website
+- tips for all the hacks for sleep.
+- contact for questions about tips or website.
 - clearly understand what each of the links navigate to.
 
 ### Hard time to fall asleep? part
 ![alt text](assets/readme-pics/main.png)
 
-- trying to solve a problem for people with sleeping problems.
-- telling information about hacks people may not know.
+- This is the information part of the first page of the website.
+- telling information about hacks they may not know to get users to go to the tips site.
 - and the box include a link to the tips site.
+- background color #f1f8f8.
 
 ### Tips part
 
@@ -44,6 +45,33 @@ The website [GetMoreSleep](https://timalexanderandersson.github.io/Get-More-Slee
 ![alt text](assets/readme-pics/contact.png)
 
 - Contact site give the user a chance to ask about the website or ask about more sleeping hacks.
-- a short text about why user the user want to send message.
-- firstname ,last name, e-mail and an question is required.
+- a short text about why the user want to send message.
+- firstname ,last name, e-mail and question  part is required.
 
+### Footer
+
+![alt text](assets/readme-pics/footer.png)
+
+-  bottom of the page is where you find the follow us on social media with icon links to the different webpages.
+
+- instagram link, X/twitter link, Facebook link.
+
+- color used #0F7881 made more transparent (0.15).
+
+## Testing 
+
+### Validators / lighthouse
+
+![alt text](assets/readme-pics/goodscore.png)
+
+- **accessibility**: lighthouse show an 93 in accessibility.
+
+- **HTML**: testing with W3C Validator: one warning was found going through the validator.
+![alt text](assets/readme-pics/htmlerror.png)
+- solution: Change the h1 to h2 instead.
+
+- **CSS**: testing with (jigsaw)validator: no error was found going through the validator.
+
+### Unfixed bugs
+ 
+ None unfixed
