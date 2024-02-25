@@ -64,7 +64,7 @@ The website [GetMoreSleep](https://timalexanderandersson.github.io/Get-More-Slee
 
 - Easy to see and read everything on the webpages.
 
-- Everything works on the webpages. contact page: every name, lastname, e-mail and textarea is required before you can submit.
+- Everything works on the webpages. social media links. tips link. contact page: every name, lastname, e-mail and textarea is required before you can submit.
 
 ### Validators / Lighthouse
 
@@ -89,9 +89,9 @@ solution: Change the h1 to an h2.
 
  **Deployment was made on github.**
  
- - went to /Get-More-Sleep-Website/settings to /Get-More-Sleep-Website/settings/pages from settings then the link to pages.
- -  then to branch to the drop-down menu select main/none.
- - main selected.
+ - went to settings and to pages (settings/pages).
+ -  then down to branch to the drop-down menu select main/none.
+ - main selected and save.
  - deployment complete. and link is accessible.
 
  ## Credits 
@@ -107,7 +107,7 @@ solution: Change the h1 to an h2.
  the tips.
 
  **Media**
-- pexels.com for the picture on the first homepage(clock in bed).
+- https://www.pexels.com/ for the picture on the first homepage(clock in bed).
 - https://coolors.co/ for color #0F7881 in header and footer.
 - https://favicon.io/ for making my icon to the website.
 - https://fontawesome.com/ for icon to the title on the website.
