@@ -94,7 +94,20 @@ solution: Change the h1 to an h2.
  - main selected.
  - deployment complete. and link is accessible.
 
- ##Credits 
+ ## Credits 
 
  **Content on the webpage**
  
+ - inspiration from love running project with hover effect and footer with social media icons. twitter/X , facebook, and w3schools.
+ - https://www.verywellmind.com/sleep-syncing-for-better-sleep-and-energy-7504842 
+ https://www.webmd.com/sleep-disorders/features/morning-light-better-sleep
+ https://healthnews.com/sleep/sleep-hacks/andrew-hubermans-sleep-routine/
+ https://www.calm.com/blog/breathing-exercises-for-sleep
+ https://www.verywellhealth.com/eating-before-bed-3014981
+ the tips.
+
+ **Media**
+- pexels.com for the picture on the first homepage(clock in bed).
+- coolors.co for color #0F7881 in header and footer.
+- https://favicon.io/ for making my icon to the website.
+- https://fontawesome.com/ for icon to the title on the website.
