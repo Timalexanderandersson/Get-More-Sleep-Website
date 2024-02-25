@@ -108,6 +108,6 @@ solution: Change the h1 to an h2.
 
  **Media**
 - pexels.com for the picture on the first homepage(clock in bed).
-- coolors.co for color #0F7881 in header and footer.
+- https://coolors.co/ for color #0F7881 in header and footer.
 - https://favicon.io/ for making my icon to the website.
 - https://fontawesome.com/ for icon to the title on the website.
