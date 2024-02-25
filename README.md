@@ -23,7 +23,7 @@ The website [GetMoreSleep](https://timalexanderandersson.github.io/Get-More-Slee
 - contact for questions about tips or website.
 - clearly understand what each of the links navigate to.
 
-### Hard time to fall asleep? part
+### Hard time to fall asleep? 
 ![alt text](assets/readme-pics/main.png)
 
 - This is the information part of the first page of the website.
@@ -60,18 +60,41 @@ The website [GetMoreSleep](https://timalexanderandersson.github.io/Get-More-Slee
 
 ## Testing 
 
-### Validators / lighthouse
+- The website is tested and is responsive in Google chrome, Safari and Firefox browser.
+
+- Easy to see and read everything on the webpages.
+
+- Everything works on the webpages. contact page: every name, lastname, e-mail and textarea is required before you can submit.
+
+### Validators / Lighthouse
 
 ![alt text](assets/readme-pics/goodscore.png)
 
 - **accessibility**: lighthouse show an 93 in accessibility.
 
-- **HTML**: testing with W3C Validator: one warning was found going through the validator.
+- **HTML**: testing with official W3C Validator: one warning was found going through the validator.
 ![alt text](assets/readme-pics/htmlerror.png)
-- solution: Change the h1 to h2 instead.
+solution: Change the h1 to an h2.
 
-- **CSS**: testing with (jigsaw)validator: no error was found going through the validator.
+- **CSS**: testing with official (jigsaw) validator: no error was found going through the validator.
+
+### Bugs 
+
+- No bugs found.
 
 ### Unfixed bugs
  
- None unfixed
+ - None unfixed
+ ## Deployment
+
+ **Deployment was made on github.**
+ 
+ - went to /Get-More-Sleep-Website/settings to /Get-More-Sleep-Website/settings/pages from settings then the link to pages.
+ -  then to branch to the drop-down menu select main/none.
+ - main selected.
+ - deployment complete. and link is accessible.
+
+ ##Credits 
+
+ **Content on the webpage**
+ 
