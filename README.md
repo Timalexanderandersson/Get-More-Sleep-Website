@@ -74,9 +74,14 @@ The website [GetMoreSleep](https://timalexanderandersson.github.io/Get-More-Slee
 
 - **HTML**: testing with official W3C Validator: one warning was found going through the validator.
 ![alt text](assets/readme-pics/htmlerror.png)
+
 solution: Change the h1 to an h2.
 
+![alt text](assets/readme-pics/htmlOK.png)
+
 - **CSS**: testing with official (jigsaw) validator: no error was found going through the validator.
+
+![alt text](assets/readme-pics/cssOK.png)
 
 ### Bugs 
 
@@ -88,11 +93,33 @@ solution: Change the h1 to an h2.
  ## Deployment
 
  **Deployment was made on github.**
+ - To the repositories. 
  
- - went to settings and to pages (settings/pages).
- -  then down to branch to the drop-down menu select main/none.
- - main selected and save.
+ ![alt text](assets/readme-pics/resp.png)
+
+- select to go in to the website.
+
+![alt text](assets/readme-pics/homepage.png)
+
+
+ -  from there to the settings and to pages (settings/pages).
+ 
+ ![alt text](assets/readme-pics/settings.png)
+
+ ![alt text](assets/readme-pics/pages.png)
+
+ - Build and deployment go to the dropdown menu Source: deploy from a branch. and on the other drop-down menu  Branch: main  /(root) and save.
+
+  ![alt text](<assets/readme-pics/deployment page.png>)
+
+ - main selected and saved.
+
+ - back to the repositories and to the website where the link is down at the right under Packages it says Deployments. 
+
  - deployment complete. and link is accessible.
+
+ ![alt text](assets/readme-pics/livesite.png)
+
 
  ## Credits 
 
